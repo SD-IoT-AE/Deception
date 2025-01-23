@@ -1,4 +1,4 @@
-# Deception: A Multi-Layered Security Framework for Software-Defined IoT Networks
+# Deception and Cloud Integration: A Multi-Layered Approach for DDoS Detection, Mitigation, and Attack Surface Minimization in SD-IoT Networks
 
 This repository contains the source code, configuration files, and documentation for Deception, a multi-layered security framework designed for Software-Defined IoT (SD-IoT) networks. This framework focuses on DDoS detection, mitigation, and attack surface minimization.
 
