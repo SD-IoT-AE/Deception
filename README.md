@@ -62,7 +62,7 @@ For detailed instructions on each module, please refer to the corresponding PDF 
 
 The project has the following dependencies:
 
-*   Mininet
+*   Mininet-Wifi
 *   P4 compiler (`p4c`)
 *   P4 runtime environment (e.g., `simple_switch`)
 *   ONOS controller
